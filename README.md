@@ -85,19 +85,6 @@ I enjoy understanding the engineering decisions behind systems—not just using 
 
 > *"I believe good software comes from thoughtful architecture, maintainable code, and continuous iteration—not unnecessary complexity."*
 
-
-# 📊 GitHub Stats
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssiddiquii&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssiddiquii&layout=compact&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ssiddiquii)
-```
-
----
-
 # 🤝 Let's Connect
 
 I'm always interested in collaborating on backend engineering, AI applications, developer tools, and open-source projects.
