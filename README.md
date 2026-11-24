@@ -21,26 +21,10 @@ backend, mobile, and applied AI. My recent work focuses on building products
 that are useful in the real world, work well offline or locally when possible,
 and remain maintainable as they grow.
 
-## What I've been building recently
+## Products
 
-- **Local-first learning tools** with distraction-free video study, timestamped
-  notes, Pomodoro sessions, offline persistence, and optional cloud sync.
-- **Full-stack products** across web and mobile, including a beauty platform
-  with a React Native app and Next.js admin portal.
-- **Offline AI applications** for automotive troubleshooting using fine-tuned
-  Gemma models, GGUF quantization, `llama.cpp`, FastAPI, React, and React Native.
-- **Personal portfolio and developer projects** using modern React, Vite,
-  Tailwind CSS, Node.js, MongoDB, and TypeScript.
-
-## Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| 🎯 [**Foclyra**](https://github.com/ssiddiquiii/foclyra) | Distraction-free, local-first study studio for YouTube courses and playlists, with notes, focus timers, progress persistence, and optional sync. | React, TypeScript, IndexedDB, Dexie.js, Supabase |
-| 🚗 [**Car Specialist AI**](https://github.com/ssiddiquiii/car-specialist-gpt) | Offline automotive troubleshooting assistant for Android and the web, with local inference, streaming responses, conversation history, and feedback collection. | Gemma 4 2B, QLoRA, `llama.cpp`, FastAPI, React Native, MongoDB |
-| 🌸 [**Fleure Beauty**](https://github.com/ssiddiquiii/fleure-beauty-monorepo) | Full-stack beauty platform combining a mobile customer app with a web administration portal. | React Native, Expo, Next.js, MongoDB, Redux Toolkit |
-| 🧪 [**Car Repair SLM**](https://github.com/ssiddiquiii/car-repair-slm) | Fine-tuning and evaluation workflow for a car-repair language model targeting offline Android deployment. | Python, Gemma 4 E2B, QLoRA, Unsloth, DeepEval |
-| 💼 [**Portfolio**](https://github.com/ssiddiquiii/sameed-portfolio) | Responsive personal portfolio for showcasing projects, engineering interests, and learning. | React, Vite, Tailwind CSS, Vercel |
+- [**Foclyra**](https://github.com/ssiddiquiii/foclyra)
+- [**Car Specialist AI**](https://github.com/ssiddiquiii/car-specialist-gpt)
 
 ## Tech stack
 
