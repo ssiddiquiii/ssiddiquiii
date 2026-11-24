@@ -1,96 +1,73 @@
 <div align="center">
 
-# Hey, I'm Sameed Siddiqui 👋
+# Hi, I'm Sameed Siddiqui 👋
 
-### Software Engineer • Backend Systems • LLM Applications
+### Software Engineer building reliable backend systems and practical AI applications
 
-Building scalable backend systems, AI-powered applications, and production-quality software.
+I design APIs, data-intensive services, and LLM-powered products with a focus on
+clear architecture, maintainability, and real-world usefulness.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ssiddiquii-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ssiddiquii/)
-[![Email](https://img.shields.io/badge/Email-sameedsiddiqui9@gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sameedsiddiqui9@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ssiddiquii-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssiddiquii/)
+[![Email](https://img.shields.io/badge/Email-sameedsiddiqui9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameedsiddiqui9@gmail.com)
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## About me
 
-I'm a Software Engineer from **Karachi, Pakistan 🇵🇰** focused on backend engineering and AI-powered applications.
+I'm a software engineer from Karachi, Pakistan 🇵🇰, focused on backend
+engineering and AI-powered applications. I enjoy turning complex requirements
+into dependable services, well-designed APIs, and intuitive products.
 
-Currently, I'm actively fine-tuning Large Language Models (LLMs) while building **Car Specialist GPT**, a web-based conversational AI platform for automotive troubleshooting. My work combines backend engineering, LLM integration, model evaluation, and scalable software architecture.
+My current work combines backend development, LLM fine-tuning, model
+evaluation, authentication, and scalable application architecture.
 
-I enjoy understanding the engineering decisions behind systems—not just using technologies.
+## What I'm working on
 
----
+- **Car Specialist GPT** — a conversational AI assistant for automotive
+  troubleshooting, powered by a domain-specific fine-tuned model.
+- Backend systems with secure APIs, authentication, authorization, and
+  well-structured data models.
+- Practical applications of LLMs, including fine-tuning, evaluation, and RAG.
 
-# 🎯 Current Focus
+## Featured projects
 
-* 🤖 LLM Fine-Tuning & Evaluation
-* 🚗 Car Specialist GPT
-* ⚙️ Backend Engineering
-* 🔐 API Security & Authentication
-* 🗄️ Database Design
-* 🏗️ Software Architecture
+| Project | Description | Stack | Status |
+| --- | --- | --- | --- |
+| 🚗 **Car Specialist GPT** | Automotive troubleshooting assistant with chat history, authentication, feedback, and AI integration. | Python, Gemma 4 2B, LoRA/QLoRA, Hugging Face, React, Node.js, MongoDB | 🚧 Active |
+| 🎬 **VidMax Backend** | REST API for a video streaming platform with media management, subscriptions, and authorization. | Node.js, Express, MongoDB, JWT | 🚧 Building |
+| 🏕️ **Project Camp Backend** | Collaborative project management backend with teams, tasks, roles, and email workflows. | Node.js, Express, MongoDB, Mailtrap | 🚧 Building |
+| 🐛 **IssueSync** | Planned issue tracking platform for tickets, assignments, priorities, and workflow automation. | Node.js, Express, MongoDB | 📋 Planned |
 
----
+## Tech stack
 
-# 💻 Tech Stack
+**Languages:** JavaScript (ES6+), Python
+**Backend:** Node.js, Express.js, FastAPI
+**Frontend:** React, Tailwind CSS
+**Databases:** MongoDB, PostgreSQL
+**AI/LLM:** Gemma 4 2B, LoRA, QLoRA, Hugging Face, OpenAI API, Gemini API
+**Tools:** Git, GitHub, Docker, Postman, VS Code
 
-| Category      | Technologies                                                  |
-| ------------- | ------------------------------------------------------------- |
-| **Languages** | JavaScript (ES6+), Python,                                    |
-| **Frontend**  | React.js, Tailwind CSS                                        |
-| **Backend**   | Node.js, Express.js, FastAPI                                  |
-| **Databases** | MongoDB, PostgreSQL                                           |
-| **AI / LLM**  | Gemma 4 2B, LoRA, QLoRA, Hugging Face, OpenAI API, Gemini API |
-| **Tools**     | Git, GitHub, Docker, Postman, VS Code                         |
+## Interests and learning
 
----
+- Backend systems and API design
+- System design and software architecture
+- Distributed and event-driven systems
+- Database engineering
+- LLM fine-tuning, evaluation, and RAG
+- Docker and Azure AI
 
-# 🚀 Current Projects
+> Good software comes from thoughtful architecture, maintainable code, and
+> continuous iteration—not unnecessary complexity.
 
-| Project                      | Scope                                                                                                                                                                                                                                                                         | Tech Stack                                                                                 | Status                |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------- |
-| 🚗 **Car Specialist GPT**    | Fine-tuning **Gemma 4 2B** using **LoRA/QLoRA** to build a domain-specific automotive assistant. Alongside model development, I'm continuously improving a web-based conversational platform with authentication, chat history, user feedback collection, and AI integration. | Python • Gemma 4 2B • LoRA • QLoRA • Hugging Face • React • Node.js • Express.js • MongoDB | 🚧 Active Development |
-| 🎬 **VidMax Backend**        | Backend API for a video streaming platform featuring authentication, media management, subscriptions, authorization, and scalable REST architecture.                                                                                                                          | Node.js • Express.js • MongoDB • JWT                                                       | 🚧 Building           |
-| 🏕️ **Project Camp Backend** | Backend for a collaborative project management platform with authentication, role-based access control, task management, team collaboration, and email workflows.                                                                                                             | Node.js • Express.js • MongoDB • Mailtrap                                                  | 🚧 Building           |
-| 🐛 **IssueSync**             | Planned issue tracking system focused on ticket management, priorities, assignments, workflow automation, and developer collaboration.                                                                                                                                        | Node.js • Express.js • MongoDB                                                             | 📋 Planned            |
+## Let's connect
 
----
-
-# 🧠 Engineering Interests
-
-* Backend Systems
-* AI Applications
-* LLM Fine-Tuning
-* System Design
-* Software Architecture
-* API Design
-* Database Engineering
-
----
-
-# 📚 Currently Learning
-
-| Domain                   | Topics                                         |
-| ------------------------ | ---------------------------------------------- |
-| **AI**                   | LoRA, QLoRA, Model Evaluation, RAG             |
-| **Backend**              | Distributed Systems, Event-Driven Architecture |
-| **Cloud**                | Docker, Azure AI                               |
-| **Software Engineering** | Designing Data-Intensive Applications          |
-
----
-
-# 💡 Engineering Philosophy
-
-> *"I believe good software comes from thoughtful architecture, maintainable code, and continuous iteration—not unnecessary complexity."*
-
-# 🤝 Let's Connect
-
-I'm always interested in collaborating on backend engineering, AI applications, developer tools, and open-source projects.
+I'm open to collaborating on backend engineering, AI applications, developer
+tools, and open-source projects.
 
 <div align="center">
 
-### Building intelligent software, one project at a time.
+**Building intelligent software, one project at a time.**
 
 </div>
